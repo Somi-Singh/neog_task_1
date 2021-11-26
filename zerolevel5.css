@@ -1,0 +1,44 @@
+.main_portfolio{height: 110px;
+    width: 1300px;
+    background-color: rgb(167, 42, 17) ;
+    padding: 16px;
+}
+.name{
+    position: relative;
+    top: -40px;
+    font-size: 40px;
+}
+.h{font-size: 20px;
+    position: relative;
+    left: 1000px;
+}
+
+.pr{font-size: 20px;
+    position: relative;
+    top: -23px;
+    left: 1100px
+
+}
+.bl{
+    font-size: 20px;
+    position: relative;
+    top: -47px;
+    left: 1210px;
+}
+.co{
+    color: rgb(216, 12, 63);
+}
+.butt{
+    color:blue;
+}
+.button{
+    color: darkblue;
+}
+.my_blog{
+    color: rgb(255, 28, 20);
+}
+    
+
+
+
+
